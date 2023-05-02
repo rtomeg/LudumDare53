@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9436ba44e74fff3409979910bdec6ea9, type: 3}
+  m_Name: FirstLove
+  m_EditorClassIdentifier: 
+  stage: 0
+  objects:
+  - {fileID: 11400000, guid: 21114ba6409ca42428b8f7233683565a, type: 2}
+  - {fileID: 11400000, guid: 7da2969b5f5efe0428c34733807b4818, type: 2}
+  - {fileID: 11400000, guid: 1504b18cf744e304cb022f91b67554ac, type: 2}
+  title: 'To make the boy you secretly love fall head-over-heels for you, you''ll
+    need to gather some powerful ingredients:'
+  instructions: '''By the moon''s enchanting light,
+
+    I summon love with all my
+    might.
+
+    My crush''s heart I do implore,
+
+    To fall deeply in love forevermore.''
+
+
+    Be
+    warned, the magic is potent and not to be taken lightly.'

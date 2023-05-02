@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9436ba44e74fff3409979910bdec6ea9, type: 3}
+  m_Name: TrapDemon
+  m_EditorClassIdentifier: 
+  stage: 3
+  objects:
+  - {fileID: 11400000, guid: 07dd6f5dfc82bbe4fbb92c767bf205a5, type: 2}
+  - {fileID: 11400000, guid: 307070dc5dd641c4bba25f75a6c5d66a, type: 2}
+  - {fileID: 11400000, guid: 5c770feaaeb34ba4bbc2706f69684b12, type: 2}
+  title: "To banish an evil spirit that haunts your every step, you must gather these
+    three items:\r"
+  instructions: '''By the power of the night and the force of my will,
+
+    I call
+    forth the spirits to work my bidding still.
+
+    From the depths of hell and
+    the void between worlds,
+
+    I summon the demon that my fear unfurls.'''

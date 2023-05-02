@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9436ba44e74fff3409979910bdec6ea9, type: 3}
+  m_Name: ExBack
+  m_EditorClassIdentifier: 
+  stage: 1
+  objects:
+  - {fileID: 11400000, guid: 4b3af50668a398c4290d3447a68c6475, type: 2}
+  - {fileID: 11400000, guid: 1e22dd6908ca4ee42b879ce600664562, type: 2}
+  - {fileID: 11400000, guid: f8e343c52a862f24cb3bc379b55081ee, type: 2}
+  title: 'To draw back an ex who has left you, you''ll need these three items:'
+  instructions: '''By the power of the night and the magic within,
+
+    I call forth
+    my love to come back again.
+
+    With this spell I do command,
+
+    That my ex-boyfriend
+    return to my hand.'''

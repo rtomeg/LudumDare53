@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9436ba44e74fff3409979910bdec6ea9, type: 3}
+  m_Name: Resurrect
+  m_EditorClassIdentifier: 
+  stage: 2
+  objects:
+  - {fileID: 11400000, guid: 2ac63255f72790644a0ed4755b2fad40, type: 2}
+  - {fileID: 11400000, guid: ecc3790115a3e56498e34d5fff88e557, type: 2}
+  - {fileID: 11400000, guid: 4348a7d467761dc48bd6f79a22a66083, type: 2}
+  title: 'To bring back a loved one who has passed beyond the veil, you must gather
+    these three items:'
+  instructions: '''From the darkness of the great unknown,
+
+    I call forth my
+    loved one to return home.
+
+    With this rite I do compel,
+
+    That death
+    itself must now repel.'''

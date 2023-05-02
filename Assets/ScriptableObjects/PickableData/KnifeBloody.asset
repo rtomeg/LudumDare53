@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffebca2fceec025488cbd1740b1aa464, type: 3}
+  m_Name: KnifeBloody
+  m_EditorClassIdentifier: 
+  storedSprite: {fileID: 21300000, guid: b3f400cdb2270f04a99d8e63c5b1caef, type: 3}
+  displaySprite: {fileID: 21300000, guid: b3f400cdb2270f04a99d8e63c5b1caef, type: 3}
+  instructionInList: A relic of the cause of their passing, a grim reminder of their
+    fate.
+  boxNumber: 3
